@@ -1,4 +1,7 @@
 # FfcrmAttachments
+This one is intended to increase funcionality: list, delete, metadata display.
+
+ORIGINAL README goes further:
 
 A plugin for Fat Free CRM that provides the ability to add one or many attachments (of any type) to entities in CRM.
 ## Installation / Getting started
