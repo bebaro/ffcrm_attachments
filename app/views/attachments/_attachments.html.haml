@@ -10,5 +10,5 @@
             - if entity.attachments.present?
               - entity.attachments.each do |attach|
                 .attach_block
-                  = link_to attachment_preview(attach), download_attachment_path(attach), {title: attach.attachment_file_name}
+                  = link_to attachment_preview(attach), download_attachment_path(attach), {title: attach.attachment_file_name.'test'}
                   .file_name= file_name(attach)
